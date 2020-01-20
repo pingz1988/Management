@@ -1,1 +1,1 @@
-# Management
+management探索
